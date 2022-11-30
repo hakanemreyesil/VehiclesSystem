@@ -27,3 +27,4 @@ https://localhost:7155/api/Car/6
 -------------------------------
 Get (Renklere göre getirmek için)
 https://localhost:7155/api/Car/color?color=blue
+-------------------------------
