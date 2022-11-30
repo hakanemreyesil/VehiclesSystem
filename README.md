@@ -7,7 +7,6 @@ Post
 https://localhost:7155/api/Car
 ------------------------
 {
- 
   "color": "green",
   "headlights": true,
   "wheels": 4
